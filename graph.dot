@@ -1,0 +1,13 @@
+digraph {
+    node[shape=record]
+    DimPasajero [label="DimPasajero\n-------------\nPassenger ID (PK)\nFirst Name\nLast Name\nGender\nAge\nNationality\n"]
+    DimAeropuerto [label="DimAeropuerto\n-------------\nAirportID (PK)\nAirport Name\nAirport Country Code\nCountry Name\nAirport Continent\nContinent Name"]
+    DimPiloto [label="DimPiloto\n-------------\nPilotID (PK)\nPilot Name"]
+    DimFecha [label="DimFecha\n-------------\nFechaID (PK)\nDía\nMes\nAño"]
+    Vuelos [label="Tabla de Hechos (Vuelos)\n---------------------\nPassenger ID (PK)\nDeparture Date\nArrival Airport\nFlight Status\nAirPortID\nPilotID\n"]
+
+    Vuelos -> DimPasajero
+    Vuelos -> DimAeropuerto
+    Vuelos -> DimPiloto
+    Vuelos -> DimFecha
+}
