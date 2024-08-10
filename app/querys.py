@@ -1,7 +1,7 @@
 Tablas ="""
 
 CREATE TABLE HechosVuelos (
-    PassengerID INT,
+    PassengerID  INT IDENTITY(1,1),
     AirPortID INT,
     ArrivalAirport NVARCHAR(10),
     FlightStatus NVARCHAR(50), 
@@ -12,7 +12,7 @@ CREATE TABLE HechosVuelos (
 
 
 CREATE TABLE DimPasajero (
-    PassengerID INT PRIMARY KEY,
+    PassengerID INT IDENTITY(1,1) PRIMARY KEY,
     FirstName NVARCHAR(50),
     LastName NVARCHAR(50),
     Gender NVARCHAR(10),
@@ -22,7 +22,7 @@ CREATE TABLE DimPasajero (
 
 
 CREATE TABLE DimAeropuerto (
-    AirPortID INT PRIMARY KEY,
+    AirPortID INT IDENTITY(1,1) PRIMARY KEY,
     AirportName NVARCHAR(100),
     AirportCountryCode NVARCHAR(10),
     CountryName NVARCHAR(50),
@@ -33,13 +33,13 @@ CREATE TABLE DimAeropuerto (
 
 
 CREATE TABLE DimPiloto (
-    PilotID INT PRIMARY KEY,
+    PilotID INT IDENTITY(1,1) PRIMARY KEY,
     PilotName NVARCHAR(100) 
 );
 
 
 CREATE TABLE DimFecha (
-    FechaID INT PRIMARY KEY,
+    FechaID INT IDENTITY(1,1) PRIMARY KEY,
     Dia INT,
     Mes INT,
     Año INT
