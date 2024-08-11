@@ -17,24 +17,28 @@ def extraer_info():
 def cargar_info():
     global datasets
     for i in datasets[1:]:
-       # try:try:
-            fila=i.split(",")      
-            insert=f"""IF NOT EXISTS ( SELECT 1 FROM DimPiloto WHERE PilotName='{fila[13].replace("'","")}')
-                BEGIN
-                    INSERT INTO DimPiloto (PilotName) VALUES ('{fila[13].replace("'","")}');
-                END"""
-            db.query(insert)
+       # try:
+            try:
+                fecha= None
+                fila=i.split(",")      
+                insert=f"""IF NOT EXISTS ( SELECT 1 FROM DimPiloto WHERE PilotName='{fila[13].replace("'","")}')
+                    BEGIN
+                        INSERT INTO DimPiloto (PilotName) VALUES ('{fila[13].replace("'","")}');
+                    END"""
+                db.query(insert)
+            except:
+                continue
             try:
                 if "-"in fila[11]:
                     fecha = fila[11].split("-")
                 else:
                     fecha= fila[11].split("/")
-                    insert=f"""IF NOT EXISTS ( SELECT 1 FROM DimFecha WHERE Dia={fecha[0]}
-                    and Mes = {fecha[1]} and Año = {fecha[2]})
-                        BEGIN
-                            INSERT INTO DimFecha (Dia, Mes,Año) VALUES ({fecha[0]},{fecha[1]},{fecha[2]});
-                        END"""
-                    db.query(insert)
+                insert=f"""IF NOT EXISTS ( SELECT 1 FROM DimFecha WHERE Dia={fecha[1]}
+                and Mes = {fecha[0]} and Año = {fecha[2]})
+                    BEGIN
+                        INSERT INTO DimFecha (Dia, Mes,Año) VALUES ({fecha[1]},{fecha[0]},{fecha[2]});
+                    END"""
+                db.query(insert)
             except:
                 continue
             try:
@@ -61,12 +65,19 @@ def cargar_info():
                     AND Nationality = '{fila[6]}'
                 )
                 BEGIN
-                    INSERT INTO DimPasajero (FirstName, LastName, Gender, Age, Nationality) 
-                    VALUES ('{fila[1]}', '{fila[2]}', '{fila[3]}', {fila[4]}, '{fila[5]}');
+                    INSERT INTO DimPasajero (Indentificador,FirstName, LastName, Gender, Age, Nationality) 
+                    VALUES ('{fila[0]}','{fila[1]}', '{fila[2]}', '{fila[3]}', {fila[4]}, '{fila[5]}');
                 END;"""
                 db.query(insert)
             except:
                 continue
+            try:
+                insert=f"""EXEC InsertIntoHechosVuelos '{fila[1]}', '{fila[2]}', '{fila[3]}', {fila[4]}, '{fila[5]}', '{fila[6]}', '{fila[7]}', '{fila[8]}', '{fila[9]}', '{fila[10]}', {fecha[1]},{fecha[0]},{fecha[2]}, '{fila[12]}', '{fila[13].replace("'","")}', '{fila[14]}';
+    """
+                db.query(insert)
+            except:
+                continue
+            
        #except Exception as e:
             #print(f"Descripción del error: {e}")
 
@@ -95,6 +106,7 @@ while True:
     elif c ==2:
         try:
             db.query(querys.getTablas())
+            db.query(querys.getProcedure())
             print("modelo creado")
         except:
             print("error al crear el modelo")
@@ -102,6 +114,21 @@ while True:
         extraer_info()
     elif c ==4:
         cargar_info()
+    elif c ==5:
+        print("Consulta 1-->")
+        tablas= querys.getConsulta1().split(";")
+        print(f"Tabla pilotos: {db.query_retorno(tablas[0])[0]}")
+        print(f"Tabla Aeropuertos: {db.query_retorno(tablas[1])[0]}")
+        print(f"Tabla pasajeros: {db.query_retorno(tablas[2])[0]}")
+        print(f"Tabla fechas: {db.query_retorno(tablas[3])[0]}")
+        print(f"Tabla Vuelos: {db.query_retorno(tablas[4])[0]}")
+        print("Consulta 2-->")
+        for row in db.query_retorno_all(querys.getConsulta2()):
+            print(f"Genero: {row.Gender}, Porcentaje: {row.Percentage:.2f}%")
+        print("Consulta 3-->")
+        for row in db.query_retorno_all(querys.getConsulta3()):
+            print(row)
+        print("Consultas creadas")
     print("--------------------------------")
 
 

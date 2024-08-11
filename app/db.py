@@ -42,17 +42,30 @@ def query_conectado(conexion,quer:list, data= None ):
         conexion.commit()
     cursor.close()
 
-def query_retorno(conexion,quer:list, data= None ):
-
+def query_retorno(quer:str, data= None ):
+    conexion = get_conection()
     cursor = conexion.cursor()
     retorno = None
-    for i in quer:
-        print(i)
-        if data:
-            cursor.execute(i,data)
-        else:
-            cursor.execute(i)
-        conexion.commit()
-        retorno= cursor.fetchall()
+    if data:
+        cursor.execute(quer,data)
+    else:
+        cursor.execute(quer)
+    
+    retorno= cursor.fetchone()
     cursor.close()
+    conexion.close()
+    return retorno
+
+def query_retorno_all(quer:str, data= None ):
+    conexion = get_conection()
+    cursor = conexion.cursor()
+    retorno = None
+    if data:
+        cursor.execute(quer,data)
+    else:
+        cursor.execute(quer)
+    
+    retorno= cursor.fetchall()
+    cursor.close()
+    conexion.close()
     return retorno
