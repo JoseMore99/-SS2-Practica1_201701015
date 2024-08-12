@@ -224,7 +224,8 @@ Select COUNT(*) From HechosVuelos;
 def getConsulta1():
     return Consulta1
 
-Consulta2="""SELECT 
+Consulta2="""
+SELECT 
     Gender,
     COUNT(*) * 100.0 / (SELECT COUNT(*) FROM DimPasajero) AS Percentage
 FROM 
@@ -267,36 +268,112 @@ def getConsulta3():
     return Consulta3
 
 Consulta4="""
+SELECT 
+    a.CountryName AS País,
+    COUNT(hv.PassengerID) AS TotalVuelos
+FROM 
+    HechosVuelos hv
+JOIN 
+    DimAeropuerto a ON hv.AirPortID = a.AirPortID
+GROUP BY 
+    a.CountryName
+ORDER BY 
+    TotalVuelos DESC;
 """
 def getConsulta4():
     return Consulta4
 
 Consulta5="""
+SELECT TOP 5
+    a.AirportName AS Aeropuerto,
+    COUNT(hv.PassengerID) AS TotalPasajeros
+FROM 
+    HechosVuelos hv
+JOIN 
+    DimAeropuerto a ON hv.AirPortID = a.AirPortID
+GROUP BY 
+    a.AirportName
+ORDER BY 
+    TotalPasajeros DESC;
 """
 def getConsulta5():
     return Consulta5
 
 Consulta6="""
+SELECT 
+    FlightStatus AS EstadoDeVuelo,
+    COUNT(*) AS TotalVuelos
+FROM 
+    HechosVuelos
+GROUP BY 
+    FlightStatus;
 """
 def getConsulta6():
     return Consulta6
 
 Consulta7="""
+SELECT TOP 5
+     CountryName AS Pais,
+    COUNT(PassengerID) AS NumeroDePasajeros
+FROM 
+    HechosVuelos
+JOIN 
+    DimAeropuerto ON HechosVuelos.AirPortID = DimAeropuerto.AirPortID
+GROUP BY 
+    CountryName
+ORDER BY 
+    NumeroDePasajeros DESC
 """
 def getConsulta7():
     return Consulta7
 
 Consulta8="""
+SELECT TOP 5
+     ContinentName AS Continente,
+    COUNT(PassengerID) AS NumeroDePasajeros
+FROM 
+    HechosVuelos
+JOIN 
+    DimAeropuerto ON HechosVuelos.AirPortID = DimAeropuerto.AirPortID
+GROUP BY 
+    ContinentName
+ORDER BY 
+    NumeroDePasajeros DESC
 """
 def getConsulta8():
     return Consulta8
 
 Consulta9="""
+SELECT TOP 5
+    p.Age AS Edad,
+    p.Gender AS Genero,
+    COUNT(*) AS NumeroDeVuelos
+FROM
+    HechosVuelos hv
+JOIN
+    DimPasajero p ON hv.PassengerID = p.PassengerID
+GROUP BY
+    p.Age,
+    p.Gender
+ORDER BY
+    NumeroDeVuelos DESC
 """
 def getConsulta9():
     return Consulta9
 
 Consulta10="""
+SELECT
+	df.Mes AS Mes,
+	df.Dia AS Dia,
+	COUNT(*) AS NumeroDeVuelos
+FROM
+    HechosVuelos hv
+JOIN
+    DimFecha df ON hv.FechaID = df.FechaID
+GROUP BY
+    df.Mes,df.Dia
+ORDER BY
+    NumeroDeVuelos DESC;
 """
 def getConsulta10():
     return Consulta10

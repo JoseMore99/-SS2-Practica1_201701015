@@ -1,0 +1,1010 @@
+Consulta 1-->
+Tabla pilotos: 1993
+Tabla Aeropuertos: 1698
+Tabla pasajeros: 1872
+Tabla fechas: 364
+Tabla Vuelos: 1872
+Consulta 2-->
+Genero: Male, Porcentaje: 51.34%
+Genero: Female, Porcentaje: 48.66%
+Consulta 3-->
+Pais: Afghanistan, Mes-Año: 2022-24, Total de Vuelos: 3,
+Pais: Afghanistan, Mes-Año: 2022-24, Total de Vuelos: 3,
+Pais: Afghanistan, Mes-Año: 2022-24, Total de Vuelos: 3,
+Pais: Albania, Mes-Año: 2022-11, Total de Vuelos: 3,
+Pais: Albania, Mes-Año: 2022-11, Total de Vuelos: 3,
+Pais: Albania, Mes-Año: 2022-11, Total de Vuelos: 3,
+Pais: Angola, Mes-Año: 2022-01, Total de Vuelos: 1,
+Pais: Angola, Mes-Año: 2022-01, Total de Vuelos: 1,
+Pais: Angola, Mes-Año: 2022-01, Total de Vuelos: 1,
+Pais: Argentina, Mes-Año: 2022-10, Total de Vuelos: 2,
+Pais: Argentina, Mes-Año: 2022-10, Total de Vuelos: 2,
+Pais: Argentina, Mes-Año: 2022-10, Total de Vuelos: 2,
+Pais: Armenia, Mes-Año: 2022-28, Total de Vuelos: 2,
+Pais: Armenia, Mes-Año: 2022-28, Total de Vuelos: 2,
+Pais: Armenia, Mes-Año: 2022-28, Total de Vuelos: 2,
+Pais: Australia, Mes-Año: 2022-04, Total de Vuelos: 1,
+Pais: Australia, Mes-Año: 2022-04, Total de Vuelos: 1,
+Pais: Australia, Mes-Año: 2022-04, Total de Vuelos: 1,
+Pais: Austria, Mes-Año: 2022-15, Total de Vuelos: 1,
+Pais: Austria, Mes-Año: 2022-15, Total de Vuelos: 1,
+Pais: Austria, Mes-Año: 2022-15, Total de Vuelos: 1,
+Pais: Azerbaijan, Mes-Año: 2022-02, Total de Vuelos: 1,
+Pais: Azerbaijan, Mes-Año: 2022-02, Total de Vuelos: 1,
+Pais: Azerbaijan, Mes-Año: 2022-02, Total de Vuelos: 1,
+Pais: Bangladesh, Mes-Año: 2022-04, Total de Vuelos: 1,
+Pais: Bangladesh, Mes-Año: 2022-04, Total de Vuelos: 1,
+Pais: Bangladesh, Mes-Año: 2022-04, Total de Vuelos: 1,
+Pais: Belarus, Mes-Año: 2022-02, Total de Vuelos: 1,
+Pais: Belarus, Mes-Año: 2022-02, Total de Vuelos: 1,
+Pais: Belarus, Mes-Año: 2022-02, Total de Vuelos: 1,
+Pais: Belgium, Mes-Año: 2022-19, Total de Vuelos: 1,
+Pais: Belgium, Mes-Año: 2022-19, Total de Vuelos: 1,
+Pais: Belgium, Mes-Año: 2022-19, Total de Vuelos: 1,
+Pais: Benin, Mes-Año: 2022-14, Total de Vuelos: 1,
+Pais: Benin, Mes-Año: 2022-14, Total de Vuelos: 1,
+Pais: Benin, Mes-Año: 2022-14, Total de Vuelos: 1,
+Pais: Bhutan, Mes-Año: 2022-20, Total de Vuelos: 1,
+Pais: Bhutan, Mes-Año: 2022-20, Total de Vuelos: 1,
+Pais: Bhutan, Mes-Año: 2022-20, Total de Vuelos: 1,
+Pais: Bolivia, Mes-Año: 2022-10, Total de Vuelos: 1,
+Pais: Bolivia, Mes-Año: 2022-10, Total de Vuelos: 1,
+Pais: Bolivia, Mes-Año: 2022-10, Total de Vuelos: 1,
+Pais: Bosnia and Herzegovina, Mes-Año: 2022-11, Total de Vuelos: 1,
+Pais: Bosnia and Herzegovina, Mes-Año: 2022-11, Total de Vuelos: 1,
+Pais: Bosnia and Herzegovina, Mes-Año: 2022-11, Total de Vuelos: 1,
+Pais: Botswana, Mes-Año: 2022-10, Total de Vuelos: 1,
+Pais: Botswana, Mes-Año: 2022-10, Total de Vuelos: 1,
+Pais: Botswana, Mes-Año: 2022-10, Total de Vuelos: 1,
+Pais: Brazil, Mes-Año: 2022-16, Total de Vuelos: 6,
+Pais: Brazil, Mes-Año: 2022-16, Total de Vuelos: 6,
+Pais: Brazil, Mes-Año: 2022-16, Total de Vuelos: 6,
+Pais: Bulgaria, Mes-Año: 2022-18, Total de Vuelos: 1,
+Pais: Bulgaria, Mes-Año: 2022-18, Total de Vuelos: 1,
+Pais: Bulgaria, Mes-Año: 2022-18, Total de Vuelos: 1,
+Pais: Burkina Faso, Mes-Año: 2022-08, Total de Vuelos: 1,
+Pais: Burkina Faso, Mes-Año: 2022-08, Total de Vuelos: 1,
+Pais: Burkina Faso, Mes-Año: 2022-08, Total de Vuelos: 1,
+Pais: Cambodia, Mes-Año: 2022-22, Total de Vuelos: 1,
+Pais: Cambodia, Mes-Año: 2022-22, Total de Vuelos: 1,
+Pais: Cambodia, Mes-Año: 2022-22, Total de Vuelos: 1,
+Pais: Cameroon, Mes-Año: 2022-09, Total de Vuelos: 1,
+Pais: Cameroon, Mes-Año: 2022-09, Total de Vuelos: 1,
+Pais: Cameroon, Mes-Año: 2022-09, Total de Vuelos: 1,
+Pais: Canada, Mes-Año: 2022-05, Total de Vuelos: 2,
+Pais: Canada, Mes-Año: 2022-05, Total de Vuelos: 2,
+Pais: Canada, Mes-Año: 2022-05, Total de Vuelos: 2,
+Pais: Central African Republic, Mes-Año: 2022-08, Total de Vuelos: 1,
+Pais: Central African Republic, Mes-Año: 2022-08, Total de Vuelos: 1,
+Pais: Central African Republic, Mes-Año: 2022-08, Total de Vuelos: 1,
+Pais: Chile, Mes-Año: 2022-01, Total de Vuelos: 2,
+Pais: Chile, Mes-Año: 2022-01, Total de Vuelos: 2,
+Pais: Chile, Mes-Año: 2022-01, Total de Vuelos: 2,
+Pais: China, Mes-Año: 2022-12, Total de Vuelos: 18,
+Pais: China, Mes-Año: 2022-12, Total de Vuelos: 18,
+Pais: China, Mes-Año: 2022-12, Total de Vuelos: 18,
+Pais: Colombia, Mes-Año: 2022-13, Total de Vuelos: 3,
+Pais: Colombia, Mes-Año: 2022-13, Total de Vuelos: 3,
+Pais: Colombia, Mes-Año: 2022-13, Total de Vuelos: 3,
+Pais: Comoros, Mes-Año: 2022-12, Total de Vuelos: 1,
+Pais: Comoros, Mes-Año: 2022-12, Total de Vuelos: 1,
+Pais: Comoros, Mes-Año: 2022-12, Total de Vuelos: 1,
+Pais: Costa Rica, Mes-Año: 2022-24, Total de Vuelos: 2,
+Pais: Costa Rica, Mes-Año: 2022-24, Total de Vuelos: 2,
+Pais: Costa Rica, Mes-Año: 2022-24, Total de Vuelos: 2,
+Pais: Croatia, Mes-Año: 2022-07, Total de Vuelos: 2,
+Pais: Croatia, Mes-Año: 2022-07, Total de Vuelos: 2,
+Pais: Croatia, Mes-Año: 2022-07, Total de Vuelos: 2,
+Pais: Cuba, Mes-Año: 2022-03, Total de Vuelos: 1,
+Pais: Cuba, Mes-Año: 2022-03, Total de Vuelos: 1,
+Pais: Cuba, Mes-Año: 2022-03, Total de Vuelos: 1,
+Pais: Cyprus, Mes-Año: 2022-23, Total de Vuelos: 1,
+Pais: Cyprus, Mes-Año: 2022-23, Total de Vuelos: 1,
+Pais: Cyprus, Mes-Año: 2022-23, Total de Vuelos: 1,
+Pais: Czech Republic, Mes-Año: 2022-17, Total de Vuelos: 4,
+Pais: Czech Republic, Mes-Año: 2022-17, Total de Vuelos: 4,
+Pais: Czech Republic, Mes-Año: 2022-17, Total de Vuelos: 4,
+Pais: Democratic Republic of the Congo, Mes-Año: 2022-03, Total de Vuelos: 1,
+Pais: Democratic Republic of the Congo, Mes-Año: 2022-03, Total de Vuelos: 1,
+Pais: Democratic Republic of the Congo, Mes-Año: 2022-03, Total de Vuelos: 1,
+Pais: Denmark, Mes-Año: 2022-03, Total de Vuelos: 1,
+Pais: Denmark, Mes-Año: 2022-03, Total de Vuelos: 1,
+Pais: Denmark, Mes-Año: 2022-03, Total de Vuelos: 1,
+Pais: Dominica, Mes-Año: 2022-08, Total de Vuelos: 1,
+Pais: Dominica, Mes-Año: 2022-08, Total de Vuelos: 1,
+Pais: Dominica, Mes-Año: 2022-08, Total de Vuelos: 1,
+Pais: Dominican Republic, Mes-Año: 2022-21, Total de Vuelos: 2,
+Pais: Dominican Republic, Mes-Año: 2022-21, Total de Vuelos: 2,
+Pais: Dominican Republic, Mes-Año: 2022-21, Total de Vuelos: 2,
+Pais: East Timor, Mes-Año: 2022-14, Total de Vuelos: 1,
+Pais: East Timor, Mes-Año: 2022-14, Total de Vuelos: 1,
+Pais: East Timor, Mes-Año: 2022-14, Total de Vuelos: 1,
+Pais: Ecuador, Mes-Año: 2022-05, Total de Vuelos: 1,
+Pais: Ecuador, Mes-Año: 2022-05, Total de Vuelos: 1,
+Pais: Ecuador, Mes-Año: 2022-05, Total de Vuelos: 1,
+Pais: Egypt, Mes-Año: 2022-03, Total de Vuelos: 1,
+Pais: Egypt, Mes-Año: 2022-03, Total de Vuelos: 1,
+Pais: Egypt, Mes-Año: 2022-03, Total de Vuelos: 1,
+Pais: Estonia, Mes-Año: 2022-22, Total de Vuelos: 1,
+Pais: Estonia, Mes-Año: 2022-22, Total de Vuelos: 1,
+Pais: Estonia, Mes-Año: 2022-22, Total de Vuelos: 1,
+Pais: Ethiopia, Mes-Año: 2022-04, Total de Vuelos: 1,
+Pais: Ethiopia, Mes-Año: 2022-04, Total de Vuelos: 1,
+Pais: Ethiopia, Mes-Año: 2022-04, Total de Vuelos: 1,
+Pais: Finland, Mes-Año: 2022-03, Total de Vuelos: 1,
+Pais: Finland, Mes-Año: 2022-03, Total de Vuelos: 1,
+Pais: Finland, Mes-Año: 2022-03, Total de Vuelos: 1,
+Pais: France, Mes-Año: 2022-16, Total de Vuelos: 5,
+Pais: France, Mes-Año: 2022-16, Total de Vuelos: 5,
+Pais: France, Mes-Año: 2022-16, Total de Vuelos: 5,
+Pais: French Guiana, Mes-Año: 2022-08, Total de Vuelos: 1,
+Pais: French Guiana, Mes-Año: 2022-08, Total de Vuelos: 1,
+Pais: French Guiana, Mes-Año: 2022-08, Total de Vuelos: 1,
+Pais: Gabon, Mes-Año: 2022-09, Total de Vuelos: 1,
+Pais: Gabon, Mes-Año: 2022-09, Total de Vuelos: 1,
+Pais: Gabon, Mes-Año: 2022-09, Total de Vuelos: 1,
+Pais: Georgia, Mes-Año: 2022-08, Total de Vuelos: 1,
+Pais: Georgia, Mes-Año: 2022-08, Total de Vuelos: 1,
+Pais: Georgia, Mes-Año: 2022-08, Total de Vuelos: 1,
+Pais: Germany, Mes-Año: 2022-09, Total de Vuelos: 1,
+Pais: Germany, Mes-Año: 2022-09, Total de Vuelos: 1,
+Pais: Germany, Mes-Año: 2022-09, Total de Vuelos: 1,
+Pais: Ghana, Mes-Año: 2022-26, Total de Vuelos: 1,
+Pais: Ghana, Mes-Año: 2022-26, Total de Vuelos: 1,
+Pais: Ghana, Mes-Año: 2022-26, Total de Vuelos: 1,
+Pais: Greece, Mes-Año: 2022-29, Total de Vuelos: 3,
+Pais: Greece, Mes-Año: 2022-29, Total de Vuelos: 3,
+Pais: Greece, Mes-Año: 2022-29, Total de Vuelos: 3,
+Pais: Guam, Mes-Año: 2022-02, Total de Vuelos: 1,
+Pais: Guam, Mes-Año: 2022-02, Total de Vuelos: 1,
+Pais: Guam, Mes-Año: 2022-02, Total de Vuelos: 1,
+Pais: Guatemala, Mes-Año: 2022-03, Total de Vuelos: 1,
+Pais: Guatemala, Mes-Año: 2022-03, Total de Vuelos: 1,
+Pais: Guatemala, Mes-Año: 2022-03, Total de Vuelos: 1,
+Pais: Guinea, Mes-Año: 2022-06, Total de Vuelos: 1,
+Pais: Guinea, Mes-Año: 2022-06, Total de Vuelos: 1,
+Pais: Guinea, Mes-Año: 2022-06, Total de Vuelos: 1,
+Pais: Guinea-Bissau, Mes-Año: 2022-27, Total de Vuelos: 1,
+Pais: Guinea-Bissau, Mes-Año: 2022-27, Total de Vuelos: 1,
+Pais: Guinea-Bissau, Mes-Año: 2022-27, Total de Vuelos: 1,
+Pais: Haiti, Mes-Año: 2022-07, Total de Vuelos: 1,
+Pais: Haiti, Mes-Año: 2022-07, Total de Vuelos: 1,
+Pais: Haiti, Mes-Año: 2022-07, Total de Vuelos: 1,
+Pais: Honduras, Mes-Año: 2022-21, Total de Vuelos: 3,
+Pais: Honduras, Mes-Año: 2022-21, Total de Vuelos: 3,
+Pais: Honduras, Mes-Año: 2022-21, Total de Vuelos: 3,
+Pais: Indonesia, Mes-Año: 2022-03, Total de Vuelos: 10,
+Pais: Indonesia, Mes-Año: 2022-03, Total de Vuelos: 10,
+Pais: Indonesia, Mes-Año: 2022-03, Total de Vuelos: 10,
+Pais: Iran, Mes-Año: 2022-01, Total de Vuelos: 1,
+Pais: Iran, Mes-Año: 2022-01, Total de Vuelos: 1,
+Pais: Iran, Mes-Año: 2022-01, Total de Vuelos: 1,
+Pais: Iraq, Mes-Año: 2022-08, Total de Vuelos: 1,
+Pais: Iraq, Mes-Año: 2022-08, Total de Vuelos: 1,
+Pais: Iraq, Mes-Año: 2022-08, Total de Vuelos: 1,
+Pais: Ireland, Mes-Año: 2022-08, Total de Vuelos: 2,
+Pais: Ireland, Mes-Año: 2022-08, Total de Vuelos: 2,
+Pais: Ireland, Mes-Año: 2022-08, Total de Vuelos: 2,
+Pais: Israel, Mes-Año: 2022-02, Total de Vuelos: 1,
+Pais: Israel, Mes-Año: 2022-02, Total de Vuelos: 1,
+Pais: Israel, Mes-Año: 2022-02, Total de Vuelos: 1,
+Pais: Italy, Mes-Año: 2022-25, Total de Vuelos: 1,
+Pais: Italy, Mes-Año: 2022-25, Total de Vuelos: 1,
+Pais: Italy, Mes-Año: 2022-25, Total de Vuelos: 1,
+Pais: Ivory Coast, Mes-Año: 2022-07, Total de Vuelos: 1,
+Pais: Ivory Coast, Mes-Año: 2022-07, Total de Vuelos: 1,
+Pais: Ivory Coast, Mes-Año: 2022-07, Total de Vuelos: 1,
+Pais: Jamaica, Mes-Año: 2022-10, Total de Vuelos: 1,
+Pais: Jamaica, Mes-Año: 2022-10, Total de Vuelos: 1,
+Pais: Jamaica, Mes-Año: 2022-10, Total de Vuelos: 1,
+Pais: Japan, Mes-Año: 2022-11, Total de Vuelos: 3,
+Pais: Japan, Mes-Año: 2022-11, Total de Vuelos: 3,
+Pais: Japan, Mes-Año: 2022-11, Total de Vuelos: 3,
+Pais: Jordan, Mes-Año: 2022-05, Total de Vuelos: 1,
+Pais: Jordan, Mes-Año: 2022-05, Total de Vuelos: 1,
+Pais: Jordan, Mes-Año: 2022-05, Total de Vuelos: 1,
+Pais: Kazakhstan, Mes-Año: 2022-01, Total de Vuelos: 2,
+Pais: Kazakhstan, Mes-Año: 2022-01, Total de Vuelos: 2,
+Pais: Kazakhstan, Mes-Año: 2022-01, Total de Vuelos: 2,
+Pais: Kenya, Mes-Año: 2022-03, Total de Vuelos: 1,
+Pais: Kenya, Mes-Año: 2022-03, Total de Vuelos: 1,
+Pais: Kenya, Mes-Año: 2022-03, Total de Vuelos: 1,
+Pais: Kiribati, Mes-Año: 2022-21, Total de Vuelos: 1,
+Pais: Kiribati, Mes-Año: 2022-21, Total de Vuelos: 1,
+Pais: Kiribati, Mes-Año: 2022-21, Total de Vuelos: 1,
+Pais: Kosovo, Mes-Año: 2022-11, Total de Vuelos: 1,
+Pais: Kosovo, Mes-Año: 2022-11, Total de Vuelos: 1,
+Pais: Kosovo, Mes-Año: 2022-11, Total de Vuelos: 1,
+Pais: Kyrgyzstan, Mes-Año: 2022-06, Total de Vuelos: 1,
+Pais: Kyrgyzstan, Mes-Año: 2022-06, Total de Vuelos: 1,
+Pais: Kyrgyzstan, Mes-Año: 2022-06, Total de Vuelos: 1,
+Pais: Laos, Mes-Año: 2022-19, Total de Vuelos: 1,
+Pais: Laos, Mes-Año: 2022-19, Total de Vuelos: 1,
+Pais: Laos, Mes-Año: 2022-19, Total de Vuelos: 1,
+Pais: Latvia, Mes-Año: 2022-04, Total de Vuelos: 1,
+Pais: Latvia, Mes-Año: 2022-04, Total de Vuelos: 1,
+Pais: Latvia, Mes-Año: 2022-04, Total de Vuelos: 1,
+Pais: Lebanon, Mes-Año: 2022-08, Total de Vuelos: 1,
+Pais: Lebanon, Mes-Año: 2022-08, Total de Vuelos: 1,
+Pais: Lebanon, Mes-Año: 2022-08, Total de Vuelos: 1,
+Pais: Libya, Mes-Año: 2022-21, Total de Vuelos: 1,
+Pais: Libya, Mes-Año: 2022-21, Total de Vuelos: 1,
+Pais: Libya, Mes-Año: 2022-21, Total de Vuelos: 1,
+Pais: Liechtenstein, Mes-Año: 2022-03, Total de Vuelos: 1,
+Pais: Liechtenstein, Mes-Año: 2022-03, Total de Vuelos: 1,
+Pais: Liechtenstein, Mes-Año: 2022-03, Total de Vuelos: 1,
+Pais: Lithuania, Mes-Año: 2022-08, Total de Vuelos: 2,
+Pais: Lithuania, Mes-Año: 2022-08, Total de Vuelos: 2,
+Pais: Lithuania, Mes-Año: 2022-08, Total de Vuelos: 2,
+Pais: Luxembourg, Mes-Año: 2022-20, Total de Vuelos: 2,
+Pais: Luxembourg, Mes-Año: 2022-20, Total de Vuelos: 2,
+Pais: Luxembourg, Mes-Año: 2022-20, Total de Vuelos: 2,
+Pais: Macedonia, Mes-Año: 2022-04, Total de Vuelos: 1,
+Pais: Macedonia, Mes-Año: 2022-04, Total de Vuelos: 1,
+Pais: Macedonia, Mes-Año: 2022-04, Total de Vuelos: 1,
+Pais: Madagascar, Mes-Año: 2022-07, Total de Vuelos: 1,
+Pais: Madagascar, Mes-Año: 2022-07, Total de Vuelos: 1,
+Pais: Madagascar, Mes-Año: 2022-07, Total de Vuelos: 1,
+Pais: Malaysia, Mes-Año: 2022-11, Total de Vuelos: 2,
+Pais: Malaysia, Mes-Año: 2022-11, Total de Vuelos: 2,
+Pais: Malaysia, Mes-Año: 2022-11, Total de Vuelos: 2,
+Pais: Maldives, Mes-Año: 2022-19, Total de Vuelos: 1,
+Pais: Maldives, Mes-Año: 2022-19, Total de Vuelos: 1,
+Pais: Maldives, Mes-Año: 2022-19, Total de Vuelos: 1,
+Pais: Mali, Mes-Año: 2022-08, Total de Vuelos: 1,
+Pais: Mali, Mes-Año: 2022-08, Total de Vuelos: 1,
+Pais: Mali, Mes-Año: 2022-08, Total de Vuelos: 1,
+Pais: Malta, Mes-Año: 2022-21, Total de Vuelos: 1,
+Pais: Malta, Mes-Año: 2022-21, Total de Vuelos: 1,
+Pais: Malta, Mes-Año: 2022-21, Total de Vuelos: 1,
+Pais: Marshall Islands, Mes-Año: 2022-01, Total de Vuelos: 1,
+Pais: Marshall Islands, Mes-Año: 2022-01, Total de Vuelos: 1,
+Pais: Marshall Islands, Mes-Año: 2022-01, Total de Vuelos: 1,
+Pais: Mauritius, Mes-Año: 2022-02, Total de Vuelos: 1,
+Pais: Mauritius, Mes-Año: 2022-02, Total de Vuelos: 1,
+Pais: Mauritius, Mes-Año: 2022-02, Total de Vuelos: 1,
+Pais: Mexico, Mes-Año: 2022-16, Total de Vuelos: 3,
+Pais: Mexico, Mes-Año: 2022-16, Total de Vuelos: 3,
+Pais: Mexico, Mes-Año: 2022-16, Total de Vuelos: 3,
+Pais: Moldova, Mes-Año: 2022-04, Total de Vuelos: 1,
+Pais: Moldova, Mes-Año: 2022-04, Total de Vuelos: 1,
+Pais: Moldova, Mes-Año: 2022-04, Total de Vuelos: 1,
+Pais: Mongolia, Mes-Año: 2022-03, Total de Vuelos: 2,
+Pais: Mongolia, Mes-Año: 2022-03, Total de Vuelos: 2,
+Pais: Mongolia, Mes-Año: 2022-03, Total de Vuelos: 2,
+Pais: Montenegro, Mes-Año: 2022-04, Total de Vuelos: 1,
+Pais: Montenegro, Mes-Año: 2022-04, Total de Vuelos: 1,
+Pais: Montenegro, Mes-Año: 2022-04, Total de Vuelos: 1,
+Pais: Morocco, Mes-Año: 2022-09, Total de Vuelos: 1,
+Pais: Morocco, Mes-Año: 2022-09, Total de Vuelos: 1,
+Pais: Morocco, Mes-Año: 2022-09, Total de Vuelos: 1,
+Pais: Mozambique, Mes-Año: 2022-09, Total de Vuelos: 1,
+Pais: Mozambique, Mes-Año: 2022-09, Total de Vuelos: 1,
+Pais: Mozambique, Mes-Año: 2022-09, Total de Vuelos: 1,
+Pais: Myanmar, Mes-Año: 2022-01, Total de Vuelos: 1,
+Pais: Myanmar, Mes-Año: 2022-01, Total de Vuelos: 1,
+Pais: Myanmar, Mes-Año: 2022-01, Total de Vuelos: 1,
+Pais: Namibia, Mes-Año: 2022-08, Total de Vuelos: 1,
+Pais: Namibia, Mes-Año: 2022-08, Total de Vuelos: 1,
+Pais: Namibia, Mes-Año: 2022-08, Total de Vuelos: 1,
+Pais: Nepal, Mes-Año: 2022-03, Total de Vuelos: 1,
+Pais: Nepal, Mes-Año: 2022-03, Total de Vuelos: 1,
+Pais: Nepal, Mes-Año: 2022-03, Total de Vuelos: 1,
+Pais: Netherlands, Mes-Año: 2022-26, Total de Vuelos: 2,
+Pais: Netherlands, Mes-Año: 2022-26, Total de Vuelos: 2,
+Pais: Netherlands, Mes-Año: 2022-26, Total de Vuelos: 2,
+Pais: New Zealand, Mes-Año: 2022-16, Total de Vuelos: 3,
+Pais: New Zealand, Mes-Año: 2022-16, Total de Vuelos: 3,
+Pais: New Zealand, Mes-Año: 2022-16, Total de Vuelos: 3,
+Pais: Nicaragua, Mes-Año: 2022-26, Total de Vuelos: 1,
+Pais: Nicaragua, Mes-Año: 2022-26, Total de Vuelos: 1,
+Pais: Nicaragua, Mes-Año: 2022-26, Total de Vuelos: 1,
+Pais: Niger, Mes-Año: 2022-28, Total de Vuelos: 1,
+Pais: Niger, Mes-Año: 2022-28, Total de Vuelos: 1,
+Pais: Niger, Mes-Año: 2022-28, Total de Vuelos: 1,
+Pais: Nigeria, Mes-Año: 2022-03, Total de Vuelos: 3,
+Pais: Nigeria, Mes-Año: 2022-03, Total de Vuelos: 3,
+Pais: Nigeria, Mes-Año: 2022-03, Total de Vuelos: 3,
+Pais: North Korea, Mes-Año: 2022-04, Total de Vuelos: 1,
+Pais: North Korea, Mes-Año: 2022-04, Total de Vuelos: 1,
+Pais: North Korea, Mes-Año: 2022-04, Total de Vuelos: 1,
+Pais: Norway, Mes-Año: 2022-19, Total de Vuelos: 2,
+Pais: Norway, Mes-Año: 2022-19, Total de Vuelos: 2,
+Pais: Norway, Mes-Año: 2022-19, Total de Vuelos: 2,
+Pais: Oman, Mes-Año: 2022-25, Total de Vuelos: 1,
+Pais: Oman, Mes-Año: 2022-25, Total de Vuelos: 1,
+Pais: Oman, Mes-Año: 2022-25, Total de Vuelos: 1,
+Pais: Pakistan, Mes-Año: 2022-01, Total de Vuelos: 1,
+Pais: Pakistan, Mes-Año: 2022-01, Total de Vuelos: 1,
+Pais: Pakistan, Mes-Año: 2022-01, Total de Vuelos: 1,
+Pais: Palau, Mes-Año: 2022-16, Total de Vuelos: 1,
+Pais: Palau, Mes-Año: 2022-16, Total de Vuelos: 1,
+Pais: Palau, Mes-Año: 2022-16, Total de Vuelos: 1,
+Pais: Palestinian Territory, Mes-Año: 2022-08, Total de Vuelos: 1,
+Pais: Palestinian Territory, Mes-Año: 2022-08, Total de Vuelos: 1,
+Pais: Palestinian Territory, Mes-Año: 2022-08, Total de Vuelos: 1,
+Pais: Panama, Mes-Año: 2022-24, Total de Vuelos: 1,
+Pais: Panama, Mes-Año: 2022-24, Total de Vuelos: 1,
+Pais: Panama, Mes-Año: 2022-24, Total de Vuelos: 1,
+Pais: Paraguay, Mes-Año: 2022-14, Total de Vuelos: 1,
+Pais: Paraguay, Mes-Año: 2022-14, Total de Vuelos: 1,
+Pais: Paraguay, Mes-Año: 2022-14, Total de Vuelos: 1,
+Pais: Peru, Mes-Año: 2022-03, Total de Vuelos: 4,
+Pais: Peru, Mes-Año: 2022-03, Total de Vuelos: 4,
+Pais: Peru, Mes-Año: 2022-03, Total de Vuelos: 4,
+Pais: Philippines, Mes-Año: 2022-09, Total de Vuelos: 8,
+Pais: Philippines, Mes-Año: 2022-09, Total de Vuelos: 8,
+Pais: Philippines, Mes-Año: 2022-09, Total de Vuelos: 8,
+Pais: Poland, Mes-Año: 2022-07, Total de Vuelos: 5,
+Pais: Poland, Mes-Año: 2022-07, Total de Vuelos: 5,
+Pais: Poland, Mes-Año: 2022-07, Total de Vuelos: 5,
+Pais: Portugal, Mes-Año: 2022-25, Total de Vuelos: 4,
+Pais: Portugal, Mes-Año: 2022-25, Total de Vuelos: 4,
+Pais: Portugal, Mes-Año: 2022-25, Total de Vuelos: 4,
+Pais: Republic of the Congo, Mes-Año: 2022-02, Total de Vuelos: 1,
+Pais: Republic of the Congo, Mes-Año: 2022-02, Total de Vuelos: 1,
+Pais: Republic of the Congo, Mes-Año: 2022-02, Total de Vuelos: 1,
+Pais: Romania, Mes-Año: 2022-19, Total de Vuelos: 1,
+Pais: Romania, Mes-Año: 2022-19, Total de Vuelos: 1,
+Pais: Romania, Mes-Año: 2022-19, Total de Vuelos: 1,
+Pais: Russia, Mes-Año: 2022-13, Total de Vuelos: 7,
+Pais: Russia, Mes-Año: 2022-13, Total de Vuelos: 7,
+Pais: Russia, Mes-Año: 2022-13, Total de Vuelos: 7,
+Pais: Saint Lucia, Mes-Año: 2022-25, Total de Vuelos: 1,
+Pais: Saint Lucia, Mes-Año: 2022-25, Total de Vuelos: 1,
+Pais: Saint Lucia, Mes-Año: 2022-25, Total de Vuelos: 1,
+Pais: Samoa, Mes-Año: 2022-29, Total de Vuelos: 1,
+Pais: Samoa, Mes-Año: 2022-29, Total de Vuelos: 1,
+Pais: Samoa, Mes-Año: 2022-29, Total de Vuelos: 1,
+Pais: Sao Tome and Principe, Mes-Año: 2022-06, Total de Vuelos: 1,
+Pais: Sao Tome and Principe, Mes-Año: 2022-06, Total de Vuelos: 1,
+Pais: Sao Tome and Principe, Mes-Año: 2022-06, Total de Vuelos: 1,
+Pais: Saudi Arabia, Mes-Año: 2022-07, Total de Vuelos: 1,
+Pais: Saudi Arabia, Mes-Año: 2022-07, Total de Vuelos: 1,
+Pais: Saudi Arabia, Mes-Año: 2022-07, Total de Vuelos: 1,
+Pais: Serbia, Mes-Año: 2022-16, Total de Vuelos: 2,
+Pais: Serbia, Mes-Año: 2022-16, Total de Vuelos: 2,
+Pais: Serbia, Mes-Año: 2022-16, Total de Vuelos: 2,
+Pais: Sierra Leone, Mes-Año: 2022-24, Total de Vuelos: 2,
+Pais: Sierra Leone, Mes-Año: 2022-24, Total de Vuelos: 2,
+Pais: Sierra Leone, Mes-Año: 2022-24, Total de Vuelos: 2,
+Pais: Slovenia, Mes-Año: 2022-03, Total de Vuelos: 2,
+Pais: Slovenia, Mes-Año: 2022-03, Total de Vuelos: 2,
+Pais: Slovenia, Mes-Año: 2022-03, Total de Vuelos: 2,
+Pais: Somalia, Mes-Año: 2022-31, Total de Vuelos: 1,
+Pais: Somalia, Mes-Año: 2022-31, Total de Vuelos: 1,
+Pais: Somalia, Mes-Año: 2022-31, Total de Vuelos: 1,
+Pais: South Africa, Mes-Año: 2022-25, Total de Vuelos: 3,
+Pais: South Africa, Mes-Año: 2022-25, Total de Vuelos: 3,
+Pais: South Africa, Mes-Año: 2022-25, Total de Vuelos: 3,
+Pais: South Korea, Mes-Año: 2022-06, Total de Vuelos: 1,
+Pais: South Korea, Mes-Año: 2022-06, Total de Vuelos: 1,
+Pais: South Korea, Mes-Año: 2022-06, Total de Vuelos: 1,
+Pais: Spain, Mes-Año: 2022-04, Total de Vuelos: 1,
+Pais: Spain, Mes-Año: 2022-04, Total de Vuelos: 1,
+Pais: Spain, Mes-Año: 2022-04, Total de Vuelos: 1,
+Pais: Sri Lanka, Mes-Año: 2022-30, Total de Vuelos: 2,
+Pais: Sri Lanka, Mes-Año: 2022-30, Total de Vuelos: 2,
+Pais: Sri Lanka, Mes-Año: 2022-30, Total de Vuelos: 2,
+Pais: Sudan, Mes-Año: 2022-25, Total de Vuelos: 1,
+Pais: Sudan, Mes-Año: 2022-25, Total de Vuelos: 1,
+Pais: Sudan, Mes-Año: 2022-25, Total de Vuelos: 1,
+Pais: Suriname, Mes-Año: 2022-13, Total de Vuelos: 1,
+Pais: Suriname, Mes-Año: 2022-13, Total de Vuelos: 1,
+Pais: Suriname, Mes-Año: 2022-13, Total de Vuelos: 1,
+Pais: Sweden, Mes-Año: 2022-02, Total de Vuelos: 4,
+Pais: Sweden, Mes-Año: 2022-02, Total de Vuelos: 4,
+Pais: Sweden, Mes-Año: 2022-02, Total de Vuelos: 4,
+Pais: Switzerland, Mes-Año: 2022-06, Total de Vuelos: 1,
+Pais: Switzerland, Mes-Año: 2022-06, Total de Vuelos: 1,
+Pais: Switzerland, Mes-Año: 2022-06, Total de Vuelos: 1,
+Pais: Syria, Mes-Año: 2022-16, Total de Vuelos: 1,
+Pais: Syria, Mes-Año: 2022-16, Total de Vuelos: 1,
+Pais: Syria, Mes-Año: 2022-16, Total de Vuelos: 1,
+Pais: Tajikistan, Mes-Año: 2022-05, Total de Vuelos: 1,
+Pais: Tajikistan, Mes-Año: 2022-05, Total de Vuelos: 1,
+Pais: Tajikistan, Mes-Año: 2022-05, Total de Vuelos: 1,
+Pais: Tanzania, Mes-Año: 2022-09, Total de Vuelos: 2,
+Pais: Tanzania, Mes-Año: 2022-09, Total de Vuelos: 2,
+Pais: Tanzania, Mes-Año: 2022-09, Total de Vuelos: 2,
+Pais: Thailand, Mes-Año: 2022-23, Total de Vuelos: 4,
+Pais: Thailand, Mes-Año: 2022-23, Total de Vuelos: 4,
+Pais: Thailand, Mes-Año: 2022-23, Total de Vuelos: 4,
+Pais: Tunisia, Mes-Año: 2022-11, Total de Vuelos: 1,
+Pais: Tunisia, Mes-Año: 2022-11, Total de Vuelos: 1,
+Pais: Tunisia, Mes-Año: 2022-11, Total de Vuelos: 1,
+Pais: Turkmenistan, Mes-Año: 2022-20, Total de Vuelos: 1,
+Pais: Turkmenistan, Mes-Año: 2022-20, Total de Vuelos: 1,
+Pais: Turkmenistan, Mes-Año: 2022-20, Total de Vuelos: 1,
+Pais: Uganda, Mes-Año: 2022-12, Total de Vuelos: 1,
+Pais: Uganda, Mes-Año: 2022-12, Total de Vuelos: 1,
+Pais: Uganda, Mes-Año: 2022-12, Total de Vuelos: 1,
+Pais: Ukraine, Mes-Año: 2022-21, Total de Vuelos: 4,
+Pais: Ukraine, Mes-Año: 2022-21, Total de Vuelos: 4,
+Pais: Ukraine, Mes-Año: 2022-21, Total de Vuelos: 4,
+Pais: United Kingdom, Mes-Año: 2022-13, Total de Vuelos: 1,
+Pais: United Kingdom, Mes-Año: 2022-13, Total de Vuelos: 1,
+Pais: United Kingdom, Mes-Año: 2022-13, Total de Vuelos: 1,
+Pais: United States, Mes-Año: 2022-26, Total de Vuelos: 5,
+Pais: United States, Mes-Año: 2022-26, Total de Vuelos: 5,
+Pais: United States, Mes-Año: 2022-26, Total de Vuelos: 5,
+Pais: Uruguay, Mes-Año: 2022-12, Total de Vuelos: 2,
+Pais: Uruguay, Mes-Año: 2022-12, Total de Vuelos: 2,
+Pais: Uruguay, Mes-Año: 2022-12, Total de Vuelos: 2,
+Pais: Uzbekistan, Mes-Año: 2022-17, Total de Vuelos: 2,
+Pais: Uzbekistan, Mes-Año: 2022-17, Total de Vuelos: 2,
+Pais: Uzbekistan, Mes-Año: 2022-17, Total de Vuelos: 2,
+Pais: Venezuela, Mes-Año: 2022-04, Total de Vuelos: 2,
+Pais: Venezuela, Mes-Año: 2022-04, Total de Vuelos: 2,
+Pais: Venezuela, Mes-Año: 2022-04, Total de Vuelos: 2,
+Pais: Vietnam, Mes-Año: 2022-29, Total de Vuelos: 3,
+Pais: Vietnam, Mes-Año: 2022-29, Total de Vuelos: 3,
+Pais: Vietnam, Mes-Año: 2022-29, Total de Vuelos: 3,
+Pais: Western Sahara, Mes-Año: 2022-12, Total de Vuelos: 1,
+Pais: Western Sahara, Mes-Año: 2022-12, Total de Vuelos: 1,
+Pais: Western Sahara, Mes-Año: 2022-12, Total de Vuelos: 1,
+Pais: Yemen, Mes-Año: 2022-08, Total de Vuelos: 2,
+Pais: Yemen, Mes-Año: 2022-08, Total de Vuelos: 2,
+Pais: Yemen, Mes-Año: 2022-08, Total de Vuelos: 2,
+Pais: Zambia, Mes-Año: 2022-13, Total de Vuelos: 1,
+Pais: Zambia, Mes-Año: 2022-13, Total de Vuelos: 1,
+Pais: Zambia, Mes-Año: 2022-13, Total de Vuelos: 1,
+Consulta 4-->
+País: United States, Total de Vuelos: 452
+País: Australia, Total de Vuelos: 130
+País: Canada, Total de Vuelos: 130
+País: Papua New Guinea, Total de Vuelos: 94
+País: Brazil, Total de Vuelos: 83
+País: China, Total de Vuelos: 53
+País: Russian Federation, Total de Vuelos: 39
+País: Indonesia, Total de Vuelos: 37
+País: United Kingdom, Total de Vuelos: 35
+País: India, Total de Vuelos: 31
+País: Colombia, Total de Vuelos: 30
+País: France, Total de Vuelos: 30
+País: Germany, Total de Vuelos: 23
+País: Japan, Total de Vuelos: 19
+País: South Africa, Total de Vuelos: 18
+País: Philippines, Total de Vuelos: 15
+País: Mexico, Total de Vuelos: 15
+País: Spain, Total de Vuelos: 14
+País: Nepal, Total de Vuelos: 14
+País: Pakistan, Total de Vuelos: 13
+País: Norway, Total de Vuelos: 13
+País: Burkina Faso, Total de Vuelos: 13
+País: Argentina, Total de Vuelos: 13
+País: Ethiopia, Total de Vuelos: 12
+País: Italy, Total de Vuelos: 12
+País: New Zealand, Total de Vuelos: 11
+País: Mozambique, Total de Vuelos: 11
+País: Gabon, Total de Vuelos: 11
+País: Turkey, Total de Vuelos: 11
+País: Madagascar, Total de Vuelos: 10
+País: Bahamas, Total de Vuelos: 10
+País: Chile, Total de Vuelos: 10
+País: Mongolia, Total de Vuelos: 9
+País: Algeria, Total de Vuelos: 9
+País: Saudi Arabia, Total de Vuelos: 9
+País: Cuba, Total de Vuelos: 9
+País: Malaysia, Total de Vuelos: 9
+País: Sudan, Total de Vuelos: 9
+País: Solomon Islands, Total de Vuelos: 9
+País: Oman, Total de Vuelos: 8
+País: Sweden, Total de Vuelos: 8
+País: Panama, Total de Vuelos: 8
+País: French Polynesia, Total de Vuelos: 8
+País: Portugal, Total de Vuelos: 8
+País: Vanuatu, Total de Vuelos: 8
+País: Zambia, Total de Vuelos: 7
+País: Viet Nam, Total de Vuelos: 7
+País: Myanmar, Total de Vuelos: 7
+País: Iceland, Total de Vuelos: 7
+País: Greenland, Total de Vuelos: 7
+País: Angola, Total de Vuelos: 7
+País: Egypt, Total de Vuelos: 7
+País: Finland, Total de Vuelos: 7
+País: Sri Lanka, Total de Vuelos: 6
+País: Ecuador, Total de Vuelos: 6
+País: Lesotho, Total de Vuelos: 6
+País: Peru, Total de Vuelos: 6
+País: Fiji, Total de Vuelos: 6
+País: Ukraine, Total de Vuelos: 6
+País: Bulgaria, Total de Vuelos: 6
+País: Botswana, Total de Vuelos: 6
+País: Costa Rica, Total de Vuelos: 6
+País: Mauritania, Total de Vuelos: 6
+País: Israel, Total de Vuelos: 5
+País: Greece, Total de Vuelos: 5
+País: Afghanistan, Total de Vuelos: 5
+País: Kiribati, Total de Vuelos: 5
+País: Guyana, Total de Vuelos: 5
+País: Thailand, Total de Vuelos: 5
+País: Senegal, Total de Vuelos: 5
+País: Marshall Islands, Total de Vuelos: 5
+País: Puerto Rico, Total de Vuelos: 5
+País: Guatemala, Total de Vuelos: 5
+País: Liberia, Total de Vuelos: 4
+País: Netherlands, Total de Vuelos: 4
+País: Kenya, Total de Vuelos: 4
+País: Nicaragua, Total de Vuelos: 4
+País: Romania, Total de Vuelos: 4
+País: Bangladesh, Total de Vuelos: 4
+País: Congo, Total de Vuelos: 4
+País: Libya, Total de Vuelos: 4
+País: New Caledonia, Total de Vuelos: 4
+País: Croatia, Total de Vuelos: 4
+País: Zimbabwe, Total de Vuelos: 4
+País: Suriname, Total de Vuelos: 4
+País: Austria, Total de Vuelos: 4
+País: Morocco, Total de Vuelos: 4
+País: Uruguay, Total de Vuelos: 3
+País: Poland, Total de Vuelos: 3
+País: Denmark, Total de Vuelos: 3
+País: Slovakia, Total de Vuelos: 3
+País: Dominican Republic, Total de Vuelos: 3
+País: Honduras, Total de Vuelos: 3
+País: Iraq, Total de Vuelos: 3
+País: Chad, Total de Vuelos: 3
+País: Sierra Leone, Total de Vuelos: 2
+País: Belize, Total de Vuelos: 2
+País: Hungary, Total de Vuelos: 2
+País: Cyprus, Total de Vuelos: 2
+País: Malawi, Total de Vuelos: 2
+País: Switzerland, Total de Vuelos: 2
+País: Nigeria, Total de Vuelos: 2
+País: Cameroon, Total de Vuelos: 2
+País: Jordan, Total de Vuelos: 2
+País: Belarus, Total de Vuelos: 2
+País: Cayman Islands, Total de Vuelos: 2
+País: Jamaica, Total de Vuelos: 2
+País: Lithuania, Total de Vuelos: 2
+País: Uzbekistan, Total de Vuelos: 2
+País: Saint Kitts and Nevis, Total de Vuelos: 2
+País: Rwanda, Total de Vuelos: 2
+País: Eswatini, Total de Vuelos: 2
+País: Northern Mariana Islands, Total de Vuelos: 2
+País: Azerbaijan, Total de Vuelos: 2
+País: Uganda, Total de Vuelos: 2
+País: Cabo Verde, Total de Vuelos: 2
+País: Grenada, Total de Vuelos: 2
+País: Ireland, Total de Vuelos: 2
+País: Somalia, Total de Vuelos: 2
+País: Yemen, Total de Vuelos: 2
+País: Qatar, Total de Vuelos: 2
+País: Timor-Leste, Total de Vuelos: 2
+País: Tuvalu, Total de Vuelos: 2
+País: Maldives, Total de Vuelos: 2
+País: Syrian Arab Republic, Total de Vuelos: 2
+País: Cambodia, Total de Vuelos: 2
+País: Paraguay, Total de Vuelos: 2
+País: Kazakhstan, Total de Vuelos: 2
+País: Djibouti, Total de Vuelos: 1
+País: Czechia, Total de Vuelos: 1
+País: Réunion, Total de Vuelos: 1
+País: Wallis and Futuna, Total de Vuelos: 1
+País: United Arab Emirates, Total de Vuelos: 1
+País: Equatorial Guinea, Total de Vuelos: 1
+País: Dominica, Total de Vuelos: 1
+País: Tonga, Total de Vuelos: 1
+País: Togo, Total de Vuelos: 1
+País: Central African Republic, Total de Vuelos: 1
+País: Burundi, Total de Vuelos: 1
+País: Turkmenistan, Total de Vuelos: 1
+País: Cook Islands, Total de Vuelos: 1
+País: Eritrea, Total de Vuelos: 1
+País: United States Minor Outlying Islands, Total de Vuelos: 1
+País: Norfolk Island, Total de Vuelos: 1
+País: Saint Lucia, Total de Vuelos: 1
+País: Guinea, Total de Vuelos: 1
+País: Slovenia, Total de Vuelos: 1
+País: South Sudan, Total de Vuelos: 1
+País: Tunisia, Total de Vuelos: 1
+País: Faroe Islands, Total de Vuelos: 1
+País: Belgium, Total de Vuelos: 1
+País: Nauru, Total de Vuelos: 1
+País: Antigua and Barbuda, Total de Vuelos: 1
+País: Sao Tome and Principe, Total de Vuelos: 1
+País: Western Sahara, Total de Vuelos: 1
+País: Guadeloupe, Total de Vuelos: 1
+País: Samoa, Total de Vuelos: 1
+País: North Macedonia, Total de Vuelos: 1
+País: Malta, Total de Vuelos: 1
+País: Bosnia and Herzegovina, Total de Vuelos: 1
+País: Estonia, Total de Vuelos: 1
+País: Turks and Caicos Islands, Total de Vuelos: 1
+País: Kuwait, Total de Vuelos: 1
+País: Falkland Islands (Malvinas), Total de Vuelos: 1
+País: Macao, Total de Vuelos: 1
+Consulta 5-->
+Aeropuerto: Hattiesburg Laurel Regional Airport, Total de Pasajeros: 3
+Aeropuerto: Ibo Airport, Total de Pasajeros: 3
+Aeropuerto: Immokalee Regional Airport, Total de Pasajeros: 3
+Aeropuerto: Indagen Airport, Total de Pasajeros: 3
+Aeropuerto: Masvingo International Airport, Total de Pasajeros: 3
+Consulta 6-->
+Estado de Vuelo: Delayed, Total de Vuelos: 606
+Estado de Vuelo: Cancelled, Total de Vuelos: 627
+Estado de Vuelo: On Time, Total de Vuelos: 639
+Consulta 7-->
+Pais: United States, Numero de Visitas: 452
+Pais: Australia, Numero de Visitas: 130
+Pais: Canada, Numero de Visitas: 130
+Pais: Papua New Guinea, Numero de Visitas: 94
+Pais: Brazil, Numero de Visitas: 83
+Consulta 8-->
+Continente: North America, Numero de Visitas: 665
+Continente: Asia, Numero de Visitas: 315
+Continente: Oceania, Numero de Visitas: 291
+Continente: Europe, Numero de Visitas: 247
+Continente: Africa, Numero de Visitas: 191
+Consulta 9-->
+Edad: 70, Genero: Male, Numero de Vuelos: 18
+Edad: 56, Genero: Male, Numero de Vuelos: 18
+Edad: 90, Genero: Male, Numero de Vuelos: 18
+Edad: 51, Genero: Male, Numero de Vuelos: 17
+Edad: 66, Genero: Female, Numero de Vuelos: 17
+Consulta 10-->
+Mes: 9, Dia: 8, Numero de Vuelos: 15
+Mes: 27, Dia: 7, Numero de Vuelos: 12
+Mes: 13, Dia: 1, Numero de Vuelos: 12
+Mes: 8, Dia: 12, Numero de Vuelos: 12
+Mes: 26, Dia: 5, Numero de Vuelos: 11
+Mes: 5, Dia: 8, Numero de Vuelos: 11
+Mes: 15, Dia: 5, Numero de Vuelos: 11
+Mes: 6, Dia: 2, Numero de Vuelos: 11
+Mes: 7, Dia: 6, Numero de Vuelos: 11
+Mes: 3, Dia: 10, Numero de Vuelos: 10
+Mes: 16, Dia: 9, Numero de Vuelos: 10
+Mes: 12, Dia: 2, Numero de Vuelos: 10
+Mes: 29, Dia: 3, Numero de Vuelos: 10
+Mes: 13, Dia: 4, Numero de Vuelos: 9
+Mes: 18, Dia: 7, Numero de Vuelos: 9
+Mes: 10, Dia: 6, Numero de Vuelos: 9
+Mes: 31, Dia: 5, Numero de Vuelos: 9
+Mes: 19, Dia: 5, Numero de Vuelos: 9
+Mes: 19, Dia: 10, Numero de Vuelos: 9
+Mes: 25, Dia: 6, Numero de Vuelos: 9
+Mes: 23, Dia: 12, Numero de Vuelos: 9
+Mes: 24, Dia: 2, Numero de Vuelos: 9
+Mes: 9, Dia: 7, Numero de Vuelos: 9
+Mes: 24, Dia: 11, Numero de Vuelos: 9
+Mes: 4, Dia: 1, Numero de Vuelos: 9
+Mes: 14, Dia: 4, Numero de Vuelos: 9
+Mes: 23, Dia: 10, Numero de Vuelos: 9
+Mes: 29, Dia: 6, Numero de Vuelos: 9
+Mes: 17, Dia: 9, Numero de Vuelos: 9
+Mes: 21, Dia: 12, Numero de Vuelos: 9
+Mes: 3, Dia: 1, Numero de Vuelos: 9
+Mes: 24, Dia: 12, Numero de Vuelos: 9
+Mes: 3, Dia: 7, Numero de Vuelos: 9
+Mes: 15, Dia: 7, Numero de Vuelos: 9
+Mes: 16, Dia: 8, Numero de Vuelos: 8
+Mes: 11, Dia: 8, Numero de Vuelos: 8
+Mes: 20, Dia: 7, Numero de Vuelos: 8
+Mes: 29, Dia: 7, Numero de Vuelos: 8
+Mes: 22, Dia: 10, Numero de Vuelos: 8
+Mes: 22, Dia: 7, Numero de Vuelos: 8
+Mes: 23, Dia: 11, Numero de Vuelos: 8
+Mes: 14, Dia: 1, Numero de Vuelos: 8
+Mes: 16, Dia: 12, Numero de Vuelos: 8
+Mes: 9, Dia: 6, Numero de Vuelos: 8
+Mes: 8, Dia: 11, Numero de Vuelos: 8
+Mes: 25, Dia: 1, Numero de Vuelos: 8
+Mes: 27, Dia: 3, Numero de Vuelos: 8
+Mes: 19, Dia: 2, Numero de Vuelos: 8
+Mes: 12, Dia: 7, Numero de Vuelos: 8
+Mes: 31, Dia: 10, Numero de Vuelos: 8
+Mes: 21, Dia: 9, Numero de Vuelos: 8
+Mes: 26, Dia: 10, Numero de Vuelos: 8
+Mes: 13, Dia: 9, Numero de Vuelos: 8
+Mes: 3, Dia: 11, Numero de Vuelos: 8
+Mes: 8, Dia: 9, Numero de Vuelos: 8
+Mes: 8, Dia: 1, Numero de Vuelos: 8
+Mes: 1, Dia: 4, Numero de Vuelos: 8
+Mes: 21, Dia: 2, Numero de Vuelos: 8
+Mes: 19, Dia: 8, Numero de Vuelos: 8
+Mes: 25, Dia: 10, Numero de Vuelos: 7
+Mes: 17, Dia: 3, Numero de Vuelos: 7
+Mes: 11, Dia: 7, Numero de Vuelos: 7
+Mes: 1, Dia: 1, Numero de Vuelos: 7
+Mes: 26, Dia: 11, Numero de Vuelos: 7
+Mes: 16, Dia: 10, Numero de Vuelos: 7
+Mes: 2, Dia: 2, Numero de Vuelos: 7
+Mes: 9, Dia: 10, Numero de Vuelos: 7
+Mes: 22, Dia: 11, Numero de Vuelos: 7
+Mes: 9, Dia: 4, Numero de Vuelos: 7
+Mes: 2, Dia: 7, Numero de Vuelos: 7
+Mes: 7, Dia: 7, Numero de Vuelos: 7
+Mes: 29, Dia: 8, Numero de Vuelos: 7
+Mes: 9, Dia: 3, Numero de Vuelos: 7
+Mes: 27, Dia: 11, Numero de Vuelos: 7
+Mes: 6, Dia: 3, Numero de Vuelos: 7
+Mes: 4, Dia: 4, Numero de Vuelos: 7
+Mes: 17, Dia: 5, Numero de Vuelos: 7
+Mes: 30, Dia: 9, Numero de Vuelos: 7
+Mes: 12, Dia: 5, Numero de Vuelos: 7
+Mes: 28, Dia: 4, Numero de Vuelos: 7
+Mes: 21, Dia: 7, Numero de Vuelos: 7
+Mes: 29, Dia: 5, Numero de Vuelos: 7
+Mes: 14, Dia: 10, Numero de Vuelos: 7
+Mes: 20, Dia: 6, Numero de Vuelos: 7
+Mes: 5, Dia: 3, Numero de Vuelos: 7
+Mes: 6, Dia: 4, Numero de Vuelos: 7
+Mes: 15, Dia: 12, Numero de Vuelos: 7
+Mes: 9, Dia: 12, Numero de Vuelos: 7
+Mes: 17, Dia: 12, Numero de Vuelos: 7
+Mes: 17, Dia: 4, Numero de Vuelos: 7
+Mes: 24, Dia: 9, Numero de Vuelos: 7
+Mes: 27, Dia: 8, Numero de Vuelos: 7
+Mes: 24, Dia: 10, Numero de Vuelos: 7
+Mes: 31, Dia: 1, Numero de Vuelos: 7
+Mes: 15, Dia: 8, Numero de Vuelos: 7
+Mes: 25, Dia: 5, Numero de Vuelos: 7
+Mes: 26, Dia: 6, Numero de Vuelos: 7
+Mes: 4, Dia: 2, Numero de Vuelos: 7
+Mes: 17, Dia: 1, Numero de Vuelos: 7
+Mes: 7, Dia: 9, Numero de Vuelos: 7
+Mes: 23, Dia: 5, Numero de Vuelos: 7
+Mes: 26, Dia: 9, Numero de Vuelos: 7
+Mes: 11, Dia: 2, Numero de Vuelos: 6
+Mes: 10, Dia: 4, Numero de Vuelos: 6
+Mes: 14, Dia: 9, Numero de Vuelos: 6
+Mes: 30, Dia: 8, Numero de Vuelos: 6
+Mes: 19, Dia: 6, Numero de Vuelos: 6
+Mes: 13, Dia: 2, Numero de Vuelos: 6
+Mes: 23, Dia: 8, Numero de Vuelos: 6
+Mes: 26, Dia: 12, Numero de Vuelos: 6
+Mes: 16, Dia: 5, Numero de Vuelos: 6
+Mes: 27, Dia: 10, Numero de Vuelos: 6
+Mes: 7, Dia: 12, Numero de Vuelos: 6
+Mes: 21, Dia: 6, Numero de Vuelos: 6
+Mes: 1, Dia: 8, Numero de Vuelos: 6
+Mes: 11, Dia: 3, Numero de Vuelos: 6
+Mes: 24, Dia: 4, Numero de Vuelos: 6
+Mes: 30, Dia: 6, Numero de Vuelos: 6
+Mes: 5, Dia: 10, Numero de Vuelos: 6
+Mes: 3, Dia: 5, Numero de Vuelos: 6
+Mes: 30, Dia: 5, Numero de Vuelos: 6
+Mes: 7, Dia: 3, Numero de Vuelos: 6
+Mes: 21, Dia: 3, Numero de Vuelos: 6
+Mes: 29, Dia: 10, Numero de Vuelos: 6
+Mes: 3, Dia: 2, Numero de Vuelos: 6
+Mes: 15, Dia: 6, Numero de Vuelos: 6
+Mes: 26, Dia: 8, Numero de Vuelos: 6
+Mes: 18, Dia: 4, Numero de Vuelos: 6
+Mes: 17, Dia: 8, Numero de Vuelos: 6
+Mes: 4, Dia: 12, Numero de Vuelos: 6
+Mes: 28, Dia: 6, Numero de Vuelos: 6
+Mes: 18, Dia: 3, Numero de Vuelos: 6
+Mes: 11, Dia: 6, Numero de Vuelos: 6
+Mes: 12, Dia: 1, Numero de Vuelos: 6
+Mes: 8, Dia: 8, Numero de Vuelos: 6
+Mes: 2, Dia: 1, Numero de Vuelos: 6
+Mes: 25, Dia: 9, Numero de Vuelos: 6
+Mes: 26, Dia: 2, Numero de Vuelos: 6
+Mes: 12, Dia: 8, Numero de Vuelos: 6
+Mes: 2, Dia: 8, Numero de Vuelos: 6
+Mes: 25, Dia: 4, Numero de Vuelos: 6
+Mes: 18, Dia: 1, Numero de Vuelos: 6
+Mes: 10, Dia: 9, Numero de Vuelos: 6
+Mes: 24, Dia: 3, Numero de Vuelos: 6
+Mes: 17, Dia: 6, Numero de Vuelos: 6
+Mes: 7, Dia: 5, Numero de Vuelos: 6
+Mes: 14, Dia: 5, Numero de Vuelos: 6
+Mes: 7, Dia: 2, Numero de Vuelos: 6
+Mes: 2, Dia: 5, Numero de Vuelos: 6
+Mes: 20, Dia: 1, Numero de Vuelos: 6
+Mes: 6, Dia: 7, Numero de Vuelos: 5
+Mes: 3, Dia: 3, Numero de Vuelos: 5
+Mes: 16, Dia: 2, Numero de Vuelos: 5
+Mes: 18, Dia: 10, Numero de Vuelos: 5
+Mes: 1, Dia: 12, Numero de Vuelos: 5
+Mes: 14, Dia: 11, Numero de Vuelos: 5
+Mes: 3, Dia: 12, Numero de Vuelos: 5
+Mes: 12, Dia: 3, Numero de Vuelos: 5
+Mes: 29, Dia: 9, Numero de Vuelos: 5
+Mes: 1, Dia: 6, Numero de Vuelos: 5
+Mes: 7, Dia: 10, Numero de Vuelos: 5
+Mes: 17, Dia: 11, Numero de Vuelos: 5
+Mes: 3, Dia: 8, Numero de Vuelos: 5
+Mes: 18, Dia: 12, Numero de Vuelos: 5
+Mes: 25, Dia: 3, Numero de Vuelos: 5
+Mes: 5, Dia: 5, Numero de Vuelos: 5
+Mes: 30, Dia: 3, Numero de Vuelos: 5
+Mes: 20, Dia: 2, Numero de Vuelos: 5
+Mes: 30, Dia: 1, Numero de Vuelos: 5
+Mes: 11, Dia: 9, Numero de Vuelos: 5
+Mes: 10, Dia: 8, Numero de Vuelos: 5
+Mes: 25, Dia: 12, Numero de Vuelos: 5
+Mes: 23, Dia: 1, Numero de Vuelos: 5
+Mes: 22, Dia: 8, Numero de Vuelos: 5
+Mes: 18, Dia: 6, Numero de Vuelos: 5
+Mes: 6, Dia: 9, Numero de Vuelos: 5
+Mes: 11, Dia: 12, Numero de Vuelos: 5
+Mes: 1, Dia: 3, Numero de Vuelos: 5
+Mes: 6, Dia: 8, Numero de Vuelos: 5
+Mes: 23, Dia: 6, Numero de Vuelos: 5
+Mes: 26, Dia: 4, Numero de Vuelos: 5
+Mes: 25, Dia: 11, Numero de Vuelos: 5
+Mes: 4, Dia: 5, Numero de Vuelos: 5
+Mes: 4, Dia: 11, Numero de Vuelos: 5
+Mes: 29, Dia: 1, Numero de Vuelos: 5
+Mes: 19, Dia: 7, Numero de Vuelos: 5
+Mes: 28, Dia: 12, Numero de Vuelos: 5
+Mes: 13, Dia: 8, Numero de Vuelos: 5
+Mes: 1, Dia: 2, Numero de Vuelos: 5
+Mes: 8, Dia: 5, Numero de Vuelos: 5
+Mes: 28, Dia: 3, Numero de Vuelos: 5
+Mes: 27, Dia: 4, Numero de Vuelos: 5
+Mes: 19, Dia: 9, Numero de Vuelos: 5
+Mes: 19, Dia: 3, Numero de Vuelos: 5
+Mes: 16, Dia: 11, Numero de Vuelos: 5
+Mes: 2, Dia: 11, Numero de Vuelos: 5
+Mes: 18, Dia: 5, Numero de Vuelos: 5
+Mes: 20, Dia: 10, Numero de Vuelos: 5
+Mes: 1, Dia: 7, Numero de Vuelos: 5
+Mes: 8, Dia: 4, Numero de Vuelos: 5
+Mes: 19, Dia: 12, Numero de Vuelos: 5
+Mes: 8, Dia: 10, Numero de Vuelos: 5
+Mes: 26, Dia: 3, Numero de Vuelos: 5
+Mes: 22, Dia: 4, Numero de Vuelos: 4
+Mes: 25, Dia: 2, Numero de Vuelos: 4
+Mes: 6, Dia: 5, Numero de Vuelos: 4
+Mes: 14, Dia: 3, Numero de Vuelos: 4
+Mes: 18, Dia: 8, Numero de Vuelos: 4
+Mes: 5, Dia: 9, Numero de Vuelos: 4
+Mes: 28, Dia: 11, Numero de Vuelos: 4
+Mes: 15, Dia: 10, Numero de Vuelos: 4
+Mes: 12, Dia: 12, Numero de Vuelos: 4
+Mes: 12, Dia: 6, Numero de Vuelos: 4
+Mes: 15, Dia: 4, Numero de Vuelos: 4
+Mes: 11, Dia: 5, Numero de Vuelos: 4
+Mes: 11, Dia: 11, Numero de Vuelos: 4
+Mes: 8, Dia: 7, Numero de Vuelos: 4
+Mes: 18, Dia: 2, Numero de Vuelos: 4
+Mes: 20, Dia: 11, Numero de Vuelos: 4
+Mes: 20, Dia: 5, Numero de Vuelos: 4
+Mes: 31, Dia: 7, Numero de Vuelos: 4
+Mes: 28, Dia: 9, Numero de Vuelos: 4
+Mes: 16, Dia: 6, Numero de Vuelos: 4
+Mes: 12, Dia: 10, Numero de Vuelos: 4
+Mes: 2, Dia: 9, Numero de Vuelos: 4
+Mes: 10, Dia: 7, Numero de Vuelos: 4
+Mes: 24, Dia: 1, Numero de Vuelos: 4
+Mes: 5, Dia: 7, Numero de Vuelos: 4
+Mes: 12, Dia: 4, Numero de Vuelos: 4
+Mes: 19, Dia: 1, Numero de Vuelos: 4
+Mes: 28, Dia: 10, Numero de Vuelos: 4
+Mes: 1, Dia: 9, Numero de Vuelos: 4
+Mes: 22, Dia: 9, Numero de Vuelos: 4
+Mes: 3, Dia: 6, Numero de Vuelos: 4
+Mes: 29, Dia: 12, Numero de Vuelos: 4
+Mes: 6, Dia: 10, Numero de Vuelos: 4
+Mes: 25, Dia: 7, Numero de Vuelos: 4
+Mes: 29, Dia: 11, Numero de Vuelos: 4
+Mes: 5, Dia: 2, Numero de Vuelos: 4
+Mes: 10, Dia: 11, Numero de Vuelos: 4
+Mes: 21, Dia: 10, Numero de Vuelos: 4
+Mes: 20, Dia: 3, Numero de Vuelos: 4
+Mes: 2, Dia: 10, Numero de Vuelos: 4
+Mes: 27, Dia: 5, Numero de Vuelos: 4
+Mes: 4, Dia: 9, Numero de Vuelos: 4
+Mes: 1, Dia: 11, Numero de Vuelos: 4
+Mes: 20, Dia: 8, Numero de Vuelos: 4
+Mes: 4, Dia: 3, Numero de Vuelos: 4
+Mes: 5, Dia: 4, Numero de Vuelos: 4
+Mes: 2, Dia: 6, Numero de Vuelos: 4
+Mes: 17, Dia: 10, Numero de Vuelos: 4
+Mes: 8, Dia: 2, Numero de Vuelos: 4
+Mes: 5, Dia: 11, Numero de Vuelos: 4
+Mes: 16, Dia: 1, Numero de Vuelos: 4
+Mes: 11, Dia: 1, Numero de Vuelos: 4
+Mes: 28, Dia: 7, Numero de Vuelos: 4
+Mes: 14, Dia: 7, Numero de Vuelos: 4
+Mes: 14, Dia: 8, Numero de Vuelos: 4
+Mes: 9, Dia: 5, Numero de Vuelos: 4
+Mes: 22, Dia: 6, Numero de Vuelos: 4
+Mes: 20, Dia: 4, Numero de Vuelos: 4
+Mes: 27, Dia: 1, Numero de Vuelos: 4
+Mes: 21, Dia: 11, Numero de Vuelos: 4
+Mes: 7, Dia: 8, Numero de Vuelos: 4
+Mes: 21, Dia: 8, Numero de Vuelos: 4
+Mes: 30, Dia: 10, Numero de Vuelos: 4
+Mes: 31, Dia: 3, Numero de Vuelos: 4
+Mes: 28, Dia: 5, Numero de Vuelos: 4
+Mes: 15, Dia: 9, Numero de Vuelos: 4
+Mes: 6, Dia: 1, Numero de Vuelos: 4
+Mes: 23, Dia: 7, Numero de Vuelos: 3
+Mes: 3, Dia: 9, Numero de Vuelos: 3
+Mes: 22, Dia: 12, Numero de Vuelos: 3
+Mes: 10, Dia: 12, Numero de Vuelos: 3
+Mes: 30, Dia: 4, Numero de Vuelos: 3
+Mes: 14, Dia: 2, Numero de Vuelos: 3
+Mes: 10, Dia: 3, Numero de Vuelos: 3
+Mes: 21, Dia: 5, Numero de Vuelos: 3
+Mes: 4, Dia: 7, Numero de Vuelos: 3
+Mes: 28, Dia: 2, Numero de Vuelos: 3
+Mes: 28, Dia: 1, Numero de Vuelos: 3
+Mes: 24, Dia: 8, Numero de Vuelos: 3
+Mes: 8, Dia: 3, Numero de Vuelos: 3
+Mes: 13, Dia: 12, Numero de Vuelos: 3
+Mes: 6, Dia: 12, Numero de Vuelos: 3
+Mes: 16, Dia: 7, Numero de Vuelos: 3
+Mes: 19, Dia: 4, Numero de Vuelos: 3
+Mes: 24, Dia: 7, Numero de Vuelos: 3
+Mes: 22, Dia: 2, Numero de Vuelos: 3
+Mes: 9, Dia: 9, Numero de Vuelos: 3
+Mes: 13, Dia: 3, Numero de Vuelos: 3
+Mes: 21, Dia: 1, Numero de Vuelos: 3
+Mes: 15, Dia: 3, Numero de Vuelos: 3
+Mes: 13, Dia: 7, Numero de Vuelos: 3
+Mes: 17, Dia: 2, Numero de Vuelos: 3
+Mes: 30, Dia: 11, Numero de Vuelos: 3
+Mes: 17, Dia: 7, Numero de Vuelos: 3
+Mes: 27, Dia: 2, Numero de Vuelos: 3
+Mes: 23, Dia: 9, Numero de Vuelos: 3
+Mes: 6, Dia: 11, Numero de Vuelos: 3
+Mes: 26, Dia: 1, Numero de Vuelos: 3
+Mes: 2, Dia: 12, Numero de Vuelos: 3
+Mes: 7, Dia: 4, Numero de Vuelos: 3
+Mes: 29, Dia: 4, Numero de Vuelos: 3
+Mes: 22, Dia: 1, Numero de Vuelos: 3
+Mes: 23, Dia: 2, Numero de Vuelos: 3
+Mes: 3, Dia: 4, Numero de Vuelos: 3
+Mes: 1, Dia: 10, Numero de Vuelos: 3
+Mes: 5, Dia: 12, Numero de Vuelos: 3
+Mes: 9, Dia: 11, Numero de Vuelos: 3
+Mes: 14, Dia: 6, Numero de Vuelos: 2
+Mes: 12, Dia: 9, Numero de Vuelos: 2
+Mes: 2, Dia: 3, Numero de Vuelos: 2
+Mes: 5, Dia: 1, Numero de Vuelos: 2
+Mes: 4, Dia: 8, Numero de Vuelos: 2
+Mes: 13, Dia: 10, Numero de Vuelos: 2
+Mes: 4, Dia: 6, Numero de Vuelos: 2
+Mes: 10, Dia: 10, Numero de Vuelos: 2
+Mes: 18, Dia: 11, Numero de Vuelos: 2
+Mes: 26, Dia: 7, Numero de Vuelos: 2
+Mes: 23, Dia: 3, Numero de Vuelos: 2
+Mes: 28, Dia: 8, Numero de Vuelos: 2
+Mes: 10, Dia: 1, Numero de Vuelos: 2
+Mes: 15, Dia: 2, Numero de Vuelos: 2
+Mes: 16, Dia: 3, Numero de Vuelos: 2
+Mes: 13, Dia: 5, Numero de Vuelos: 2
+Mes: 10, Dia: 5, Numero de Vuelos: 2
+Mes: 9, Dia: 2, Numero de Vuelos: 2
+Mes: 19, Dia: 11, Numero de Vuelos: 2
+Mes: 27, Dia: 12, Numero de Vuelos: 2
+Mes: 31, Dia: 8, Numero de Vuelos: 2
+Mes: 13, Dia: 6, Numero de Vuelos: 2
+Mes: 15, Dia: 11, Numero de Vuelos: 2
+Mes: 16, Dia: 4, Numero de Vuelos: 2
+Mes: 2, Dia: 4, Numero de Vuelos: 2
+Mes: 9, Dia: 1, Numero de Vuelos: 2
+Mes: 6, Dia: 6, Numero de Vuelos: 2
+Mes: 14, Dia: 12, Numero de Vuelos: 2
+Mes: 25, Dia: 8, Numero de Vuelos: 2
+Mes: 1, Dia: 5, Numero de Vuelos: 2
+Mes: 20, Dia: 9, Numero de Vuelos: 2
+Mes: 30, Dia: 12, Numero de Vuelos: 2
+Mes: 21, Dia: 4, Numero de Vuelos: 2
+Mes: 27, Dia: 9, Numero de Vuelos: 2
+Mes: 5, Dia: 6, Numero de Vuelos: 2
+Mes: 11, Dia: 10, Numero de Vuelos: 2
+Mes: 11, Dia: 4, Numero de Vuelos: 2
+Mes: 20, Dia: 12, Numero de Vuelos: 2
+Mes: 30, Dia: 7, Numero de Vuelos: 2
+Mes: 24, Dia: 6, Numero de Vuelos: 2
+Mes: 4, Dia: 10, Numero de Vuelos: 2
+Mes: 12, Dia: 11, Numero de Vuelos: 1
+Mes: 7, Dia: 11, Numero de Vuelos: 1
+Mes: 13, Dia: 11, Numero de Vuelos: 1
+Mes: 23, Dia: 4, Numero de Vuelos: 1
+Mes: 7, Dia: 1, Numero de Vuelos: 1
+Mes: 27, Dia: 6, Numero de Vuelos: 1
+Mes: 8, Dia: 6, Numero de Vuelos: 1
+Mes: 22, Dia: 3, Numero de Vuelos: 1
+Mes: 18, Dia: 9, Numero de Vuelos: 1
+Mes: 24, Dia: 5, Numero de Vuelos: 1
+Mes: 22, Dia: 5, Numero de Vuelos: 1
+Mes: 10, Dia: 2, Numero de Vuelos: 1
+Mes: 15, Dia: 1, Numero de Vuelos: 1

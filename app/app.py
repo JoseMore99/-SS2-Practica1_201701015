@@ -115,19 +115,44 @@ while True:
     elif c ==4:
         cargar_info()
     elif c ==5:
-        print("Consulta 1-->")
-        tablas= querys.getConsulta1().split(";")
-        print(f"Tabla pilotos: {db.query_retorno(tablas[0])[0]}")
-        print(f"Tabla Aeropuertos: {db.query_retorno(tablas[1])[0]}")
-        print(f"Tabla pasajeros: {db.query_retorno(tablas[2])[0]}")
-        print(f"Tabla fechas: {db.query_retorno(tablas[3])[0]}")
-        print(f"Tabla Vuelos: {db.query_retorno(tablas[4])[0]}")
-        print("Consulta 2-->")
-        for row in db.query_retorno_all(querys.getConsulta2()):
-            print(f"Genero: {row.Gender}, Porcentaje: {row.Percentage:.2f}%")
-        print("Consulta 3-->")
-        for row in db.query_retorno_all(querys.getConsulta3()):
-            print(row)
+        consultas = open("TodasLasConsultas.txt",'w')
+        
+        consultas.write("Consulta 1-->\n")
+        tablas= querys.getConsulta1().split(";\n")
+        consultas.write(f"Tabla pilotos: {db.query_retorno(tablas[0])[0]}\n")
+        consultas.write(f"Tabla Aeropuertos: {db.query_retorno(tablas[1])[0]}\n")
+        consultas.write(f"Tabla pasajeros: {db.query_retorno(tablas[2])[0]}\n")
+        consultas.write(f"Tabla fechas: {db.query_retorno(tablas[3])[0]}\n")
+        consultas.write(f"Tabla Vuelos: {db.query_retorno(tablas[4])[0]}\n")
+        consultas.write("Consulta 2-->\n")
+        for i in db.query_retorno_all(querys.getConsulta2()):
+            consultas.write(f"Genero: {i.Gender}, Porcentaje: {i.Percentage:.2f}%\n")
+        consultas.write("Consulta 3-->\n")
+        for i in db.query_retorno_all(querys.getConsulta3()):
+            for j in i:
+                consultas.write(f"Pais: {i[0]}, Mes-Año: {i[1]}, Total de Vuelos: {i[2]},"+"\n")
+
+        consultas.write("Consulta 4-->\n")
+        for i in db.query_retorno_all(querys.getConsulta4()):
+            consultas.write(f"País: {i.País}, Total de Vuelos: {i.TotalVuelos}\n")
+        consultas.write("Consulta 5-->\n")
+        for i in db.query_retorno_all(querys.getConsulta5()):
+            consultas.write(f"Aeropuerto: {i.Aeropuerto}, Total de Pasajeros: {i.TotalPasajeros}\n")
+        consultas.write("Consulta 6-->\n")
+        for i in db.query_retorno_all(querys.getConsulta6()):
+            consultas.write(f"Estado de Vuelo: {i.EstadoDeVuelo}, Total de Vuelos: {i.TotalVuelos}\n")
+        consultas.write("Consulta 7-->\n")
+        for i in db.query_retorno_all(querys.getConsulta7()):
+            consultas.write(f"Pais: {i.Pais}, Numero de Visitas: {i.NumeroDePasajeros}\n")
+        consultas.write("Consulta 8-->\n")
+        for i in db.query_retorno_all(querys.getConsulta8()):
+            consultas.write(f"Continente: {i.Continente}, Numero de Visitas: {i.NumeroDePasajeros}\n")
+        consultas.write("Consulta 9-->\n")
+        for i in db.query_retorno_all(querys.getConsulta9()):
+            consultas.write(f"Edad: {i.Edad}, Genero: {i.Genero}, Numero de Vuelos: {i.NumeroDeVuelos}\n")
+        consultas.write("Consulta 10-->\n")
+        for i in db.query_retorno_all(querys.getConsulta10()):
+            consultas.write(f"Mes: {i.Mes}, Dia: {i.Dia}, Numero de Vuelos: {i.NumeroDeVuelos}\n")
         print("Consultas creadas")
     print("--------------------------------")
 
